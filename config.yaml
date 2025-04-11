@@ -1,0 +1,17 @@
+# This is project name
+project name: 'BRIDGE'
+wandb_entity: ''
+
+# Storage location
+storage: ''
+
+# Embedding masked token idx (index starts from 0 and there are 27 tokens)
+padding_idx: 27
+
+# Distance cutoff to prune Delaunay edges. (Read the paper for more information)
+DIST_CUTOFF: 15
+
+# After training the BRIDGE foundation model (Example; change it to the actual path)
+BRIDGE_location: ''
+
+BRIDGE_Affinity_location: ''
