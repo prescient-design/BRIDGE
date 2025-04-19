@@ -4,6 +4,13 @@
 
 BRIDGE is a lightweight, cutting-edge **coarse-grained** molecular AI model designed for extracting **biophysically meaningful** embeddings from protein-protein interfaces by leveraging **Delaunay tessellation**.
 
+## Citation
+```
+ BRIDGE: A Coarse-Grained Architecture to Embed Protein-Protein Interactions for Therapeutic Applications
+Pranav M Khade, Andrew M Watkins
+bioRxiv 2025.04.11.648307; doi: https://doi.org/10.1101/2025.04.11.648307 
+```
+
 ## Prerequisites
 All the requirements for training the BRIDGE encoder and applying it for Viscosity and/ Affinity prediction tasks through scripts can be found [here](requirements.txt).
 
